@@ -14,7 +14,7 @@ export default function Home() {
           </h1>
 
           <p className="pb-20">
-            Enhance your personal storage with Dropbox, 
+            Enhance your personal storage with FileStore, 
             offering a simple and efficient way to upload, access and mangage files from anywhere.
           </p>
 
@@ -43,7 +43,7 @@ export default function Home() {
         please feel free to connect with him for any suggestions or inputs.
          Contact Details:
          Email: rahulgite.works@gmail.com
-         Phone No: 9545864301 
+         Phone No: 
       </p>
     </main>
   );
