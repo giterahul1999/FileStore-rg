@@ -47,7 +47,7 @@ After succesfull Login:
 Dark Mode:
 ![image](https://github.com/giterahul1999/FileStore-rg/assets/66781417/5e5ee02d-cbe7-4a99-aaec-cdc398474976)
 
-Renaming Functinality:
+Renaming Functionality:
 ![image](https://github.com/giterahul1999/FileStore-rg/assets/66781417/e0aa53f4-6d4a-4517-878e-85075bb51122)
 
 Deleting Functionality:
